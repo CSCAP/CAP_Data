@@ -1,0 +1,53 @@
+code	short_description
+SOIL19.1	"pH
+ [1:1 in H20]"
+SOIL19.2	Lime Test Index
+SOIL19.3	"P
+ [Bray-P1 Test]"
+SOIL19.4	"P
+ [Bray-P2 Test]"
+SOIL19.5	"P
+ [Mehlich-3 Test]"
+SOIL19.6	"K
+ [Mehlich-3 Test]"
+SOIL19.7	"Ca
+ [Mehlich-3 Test]"
+SOIL19.8	"Mg
+ [Mehlich-3 Test]"
+SOIL19.9	"Na
+ [Mehlich-3 Test]"
+SOIL19.10	CEC
+SOIL19.11	"Ca 
+ [Base Saturation]"
+SOIL19.12	"Mg
+ [Base Saturation]"
+SOIL19.13	"K
+ [Base Saturation]"
+SOIL19.14	"Na
+ [Base Saturation]"
+SOIL19.15	"Other Bases
+ [Base Saturation]"
+SOIL19.16	"H
+ [Base Saturation]"
+SOIL19.17	C
+SOIL19.18	N
+SOIL19.19	"O.M.
+ [Loss On Ignition]"
+SOIL19.20	Estimated Nitrogen Release
+SOIL19.21	NO3-N
+SOIL19.22	NH4-N
+SOIL19.23	"S
+ [Mehlich-3 Test]"
+SOIL19.24	"B
+ [Mehlich-3 Test]"
+SOIL19.25	"Fe 
+ [Mehlich-3 Test]"
+SOIL19.26	"Mn
+ [Mehlich-3 Test]"
+SOIL19.27	"Cu
+ [Mehlich-3 Test]"
+SOIL19.28	"Zn
+ [Mehlich-3 Test]"
+SOIL19.29	"Al
+ [Mehlich-3 Test]"
+SOIL19.30	Neutralizable Acidity
